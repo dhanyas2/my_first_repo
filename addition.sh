@@ -2,7 +2,7 @@
 
  #addition of two numbers
 
- a=1
+ a=2
  b=2
 
  sum=$(( $a + $b))
